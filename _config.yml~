@@ -1,5 +1,9 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
 
 # Site settings
 title: Awesome Title
